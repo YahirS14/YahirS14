@@ -8,8 +8,7 @@ const person = {
   attributes : ['self-taught', 'teamwork', 'responsible', 'determined']
 skills : {
     web_development : true,
-    technologiesFrontend : ['html', 'css', 'javascript', 'sass', 'node', 'gulp', 
-      'bootstrap'],
+    technologiesFrontend : ['html', 'css', 'javascript', 'sass', 'node', 'gulp', 'bootstrap'],
     technologiesBackend : ['php', 'sql', 'java', 'python'],
     others : ['git', 'bash'],
     framework : ['react', 'angular', 'laravel']
