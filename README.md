@@ -1,4 +1,4 @@
-### Hi i'am Yahir Orti full stack web developer
+### Hi i'am Yahir Ortiz full stack web developer
 
 
 ```js
