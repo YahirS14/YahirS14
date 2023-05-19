@@ -9,7 +9,7 @@ const person = {
 skills : {
     web_development : true,
     technologiesFrontend : ['html', 'css', 'javascript', 'sass', 'node', 'gulp', 'bootstrap'],
-    technologiesBackend : ['php', 'sql', 'java', 'python'],
+    technologiesBackend : ['sql', 'java', 'springboot'],
     others : ['git', 'bash'],
     framework : ['react', 'angular', 'laravel']
   }
