@@ -4,14 +4,18 @@
 ```js
 const person = {
   name : 'Yahir Ortiz Martinez',
-  age : '20 years',
+  age : '21 years',
   attributes : ['self-taught', 'teamwork', 'responsible', 'determined']
 skills : {
     web_development : true,
-    technologiesFrontend : ['html', 'css', 'javascript', 'sass', 'node', 'gulp', 'bootstrap'],
-    technologiesBackend : ['sql', 'java', 'springboot'],
+    technologiesFrontend : ['html', 'css', 'javascript', 'typescript', 'tailwind'],
+    technologiesBackend : ['sql', 'java', 'node'],
     others : ['git', 'bash'],
-    framework : ['react', 'angular', 'laravel']
+    framework : ['react', 'angular', 'springboot']
   }
+job : {
+  position : 'software architect',
+  company : 'MetLife'
+}
 }            
 ```
